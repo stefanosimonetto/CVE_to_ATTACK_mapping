@@ -31,9 +31,9 @@ This repository provide the bigger dataset of CVEs mapped to the MITRE ATT&amp;C
    - Navigate to the folder containing the scripts and the bash script.
 
 2. **Make the Bash Script Executable** (only needs to be done once):
-```
-chmod +x run_scripts.sh
-```
+   ```
+   chmod +x run_scripts.sh
+   ```
 
 3. **Run the Bash Script**:
 - Type and execute:
